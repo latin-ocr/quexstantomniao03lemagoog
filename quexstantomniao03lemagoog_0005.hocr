@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quexstantomniao03lemagoog_0005.png"; bbox 0 0 2784 4484; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 199 1661 1325 1850">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1 1555 1325 1850">
+     <span class='ocr_line' id='line_1_1' title="bbox 199 1661 1325 1850; baseline 0.001 -5.85"><span class='ocrx_word' id='word_1_1' title='bbox 199 1661 1325 1850; x_wconf 66' lang='lat' dir='ltr'><strong>RPAPINHSTATH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 604 2047 1320 2172">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 604 2047 1320 2172">
+     <span class='ocr_line' id='line_1_2' title="bbox 604 2047 1320 2172; baseline 0 -48"><span class='ocrx_word' id='word_1_2' title='bbox 604 2047 1004 2150; x_wconf 69' lang='lat' dir='ltr'><strong>QUAEExsTANT</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1316 2165 1320 2172; x_wconf 12' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1 2245 1352 2465">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1 2245 1352 2528">
+     <span class='ocr_line' id='line_1_3' title="bbox 1 2245 1352 2465; baseline 0.003 -7"><span class='ocrx_word' id='word_1_4' title='bbox 1 2435 2 2458; x_wconf 81' lang='grc'>,</span> <span class='ocrx_word' id='word_1_5' title='bbox 478 2245 1131 2465; x_wconf 54' lang='lat' dir='ltr'><strong>OMNIXOPERA.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1348 2287 1352 2294; x_wconf 77' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1396 4484">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1396 4484">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1396 4484; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1396 4484; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
